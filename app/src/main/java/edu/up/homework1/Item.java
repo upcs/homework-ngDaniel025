@@ -1,6 +1,6 @@
 package edu.up.homework1;
 /**
- Name: Daniel Nguyen
+ @author Daniel Nguyen
  Date: 9/17/25
  CS-301 Homework 1a
  */
@@ -63,7 +63,7 @@ public class Item {
                 canvas.drawCircle(cx,cy,75, red);
                 break;
             case greenDot:
-                canvas.drawCircle(cx, cy,90,green);
+                canvas.drawCircle(cx, cy,85,green);
                 break;
             case blueDot:
                 canvas.drawCircle(cx,cy,60,blue);

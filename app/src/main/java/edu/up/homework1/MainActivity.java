@@ -1,6 +1,6 @@
 package edu.up.homework1;
 /**
- Name: Daniel Nguyen
+ @author Daniel Nguyen
  Date: 9/17/25
  CS-301 Homework 1a
  */
